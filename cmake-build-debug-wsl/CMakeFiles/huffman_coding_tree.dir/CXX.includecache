@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/thanhle1102/C++/DSA/huffman_coding_tree/Request.h
+main.h
+/home/thanhle1102/C++/DSA/huffman_coding_tree/main.h
+
+/home/thanhle1102/C++/DSA/huffman_coding_tree/huffmanTree.h
+main.h
+/home/thanhle1102/C++/DSA/huffman_coding_tree/main.h
+
+/home/thanhle1102/C++/DSA/huffman_coding_tree/main.cpp
+main.h
+/home/thanhle1102/C++/DSA/huffman_coding_tree/main.h
+Request.h
+/home/thanhle1102/C++/DSA/huffman_coding_tree/Request.h
+
+/home/thanhle1102/C++/DSA/huffman_coding_tree/main.h
+bits/stdc++.h
+-
+minHeap.h
+/home/thanhle1102/C++/DSA/huffman_coding_tree/minHeap.h
+huffmanTree.h
+/home/thanhle1102/C++/DSA/huffman_coding_tree/huffmanTree.h
+
+/home/thanhle1102/C++/DSA/huffman_coding_tree/minHeap.h
+algorithm
+-
+vector
+-
+

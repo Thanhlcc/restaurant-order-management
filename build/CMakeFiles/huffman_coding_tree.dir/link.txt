@@ -1,0 +1,1 @@
+/mnt/c/MinGW/bin/g++.exe  -g   CMakeFiles/huffman_coding_tree.dir/main.cpp.o  -o huffman_coding_tree 
